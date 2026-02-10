@@ -1,31 +1,32 @@
-# GitHub Profile Information
+## Hi there 👋
 
-## Featured Projects
-- **Project A**: Description of Project A.
-- **Project B**: Description of Project B.
+I'm **Giorgos Theofanous**, a Software Engineer in Test at **XM** in Cyprus.
 
-## Tech Stack
-- Programming Languages: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Databases: MySQL, MongoDB
+### 🎓 Education
+- **Bachelor's Degree** in Digital Systems from the **University of Piraeus**
+- **Master's Degree** (in progress) in Precision Medicine and Novel Therapies from the **Hellenic Open University**
 
-## Repository Statistics
-- **Total Repositories**: 10
-- **Open Issues**: 5
-- **Pull Requests**: 2
+### 💼 Professional Experience
+- **Software Engineer in Test** at XM (Cyprus)
+  - Expertise in test automation, quality assurance, and software testing practices
+  - Proficiency in designing and implementing automated testing frameworks
+  - Focus on ensuring software reliability and code quality
 
-## Expertise Areas
-- Web Development
-- Data Science
-- Machine Learning
+### 💻 Programming Skills & Technologies
+- **Languages**: Python, Java, JavaScript, TypeScript, and more
+- **Testing Frameworks**: Selenium, JUnit, TestNG, Jest, Cypress
+- **Test Automation**: API testing, UI automation, End-to-End testing
+- **Tools & Platforms**: CI/CD pipelines, Git, Docker, and various testing tools
+- **Methodologies**: Agile, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
 
-## Quick Links
-- [Project A Repository](https://github.com/GiorgosThf/project-a)
-- [Project B Repository](https://github.com/GiorgosThf/project-b)
+### 🔭 Current Focus
+- Advancing expertise in test automation and quality engineering
+- Balancing professional development with academic pursuits in precision medicine
 
-## Contact Information
-- **Email**: example@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+### 📫 Get in Touch
+- **LinkedIn**: [Giorgos Theofanous](https://www.linkedin.com/in/giorgos-theofanous/)
+- **GitHub**: [@GiorgosThf](https://github.com/GiorgosThf)
 
 ---
-*Updated on: 2026-02-10 12:51:27 UTC*
+
+*Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions about software testing, quality assurance, and engineering practices!*
